@@ -1,0 +1,3 @@
+Resources:
+https://www.freecodecamp.org/news/easily-set-up-your-own-twitter-bot-4aeed5e61f7f/
+
